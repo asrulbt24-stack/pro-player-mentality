@@ -1,0 +1,84 @@
+# ⚽ MOTIVASI SEORANG JUARA - Aplikasi Kajian Selidik Atlet Bola Sepak
+
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**MOTIVASI SEORANG JUARA** ialah sebuah aplikasi web interaktif khas untuk mengumpul maklumat kajian selidik prestasi, cabaran, dan tahap motivasi para atlet bola sepak. Aplikasi ini dibina dengan reka bentuk moden, efek visual animasi api yang membakar semangat, serta pautan pintar terus ke borang kajian selidik Google Form.
+
+---
+
+## 🚀 Ciri-Ciri Utama (Key Features)
+
+1. **Skrin Pembuka & Visual Api (Item 8 & 10)**
+   - Paparan overlay animasi dengan slogan **"YOU ARE THE BEST!"** bersama latar belakang nyalaan api interaktif berasaskan HTML5 Canvas.
+
+2. **Pengenalan & Modul Motivasi (Item 1 & 2)**
+   - Penjelasan mendalam mengenai motivasi intrinsik (dalaman) dan ekstrinsik (luaran) khas untuk atlet bola sepak.
+
+3. **Pendaftaran Atlet & Pemilihan Posisi (Item 3 & 4)**
+   - Borang pendaftaran atlet yang merangkumi senarai lengkap posisi dalam bola sepak (Penjaga Gol, Pertahanan, Pemain Tengah, Sayap, Penyerang, dan lain-lain).
+
+4. **Integrasi Google Form Kajian Selidik (Item 5 & 9)**
+   - Pautan borang rasmi kajian selidik berasaskan Google Form yang terus diakses sejurus pendaftaran maklumat atlet disahkan.
+
+5. **Solusi & Panduan Masalah Pemain (Item 6)**
+   - 6 modul penyelesaian masalah utama atlet seperti gabra/tekanan perlawanan, hilang keyakinan diri, keletihan fizikal/mental (*burnout*), konflik pasukan, trauma kecederaan, dan fokus perlawanan.
+
+6. **Penjana Kata-Kata Semangat (Item 7)**
+   - Modul dinamik petikan kata-kata motivasi ikonik pembakar jiwa atlet yang boleh ditukar secara interaktif.
+
+---
+
+## 🛠️ Teknologi Yang Digunakan (Tech Stack)
+
+- **HTML5**: Struktur laman web responsif dan HTML5 Canvas untuk animasi api.
+- **Tailwind CSS (CDN)**: Rekabentuk antaramuka moden berasaskan *utility-first CSS*.
+- **JavaScript (Vanilla JS)**: Logik interaktif, simulasi Canvas, pendaftaran lokal (`localStorage`), dan fungsi navigasi.
+- **FontAwesome 6**: Ikonografi bertema sukan dan motivasi.
+- **Google Fonts**: Tipografi khas (*Teko* & *Poppins*).
+
+---
+
+## 📁 Struktur Fail (File Structure)
+
+```text
+.
+├── index.html        # Fail utama aplikasi web
+└── README.md         # Dokumentasi projek
+```
+
+---
+
+## 💻 Cara Menggunakan / Menjalankan Projek (Getting Started)
+
+1. **Klon Repository ini:**
+   ```bash
+   git clone https://github.com/USERNAME_ANDA/motivasi-seorang-juara.git
+   ```
+
+2. **Buka Projek:**
+   - Navigasi ke dalam folder projek:
+     ```bash
+     cd motivasi-seorang-juara
+     ```
+   - Buka fail `index.html` terus di dalam pelayar web pilihan anda (Google Chrome, Edge, Firefox, Safari, dll).
+
+3. **Gunakan Melalui GitHub Pages (Pilihan):**
+   - Anda juga boleh mengaktifkan **GitHub Pages** di bahagian *Settings > Pages* repository anda untuk menjadikan aplikasi ini boleh diakses secara dalam talian (*online*).
+
+---
+
+## 📝 Borang Google Form
+
+Aplikasi ini dipautkan secara terus ke borang kajian selidik rasmi:
+[Buka Google Form Kajian Selidik](https://docs.google.com/forms/d/e/1FAIpQLScGd4E9ksvf3qHjqQUufwIPyWCvtBGC2Gj1WvjsrD04GhHa2A/viewform?usp=publish-editor)
+
+---
+
+## 📄 Lesen (License)
+
+Projek ini dilesenkan di bawah [Lesen MIT](LICENSE). Bebas untuk digunakan dan diubah suai bagi tujuan pendidikan dan pembangunan sukan.
+
+> *"JUARA TIDAK DILAHIRKAN TANPA USAHA & SEMANGAT YANG MEMBAKAR!"* — **YOU ARE THE BEST!**
